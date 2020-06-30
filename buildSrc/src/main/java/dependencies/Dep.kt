@@ -47,7 +47,7 @@ object Dep {
         val appCompat = "androidx.appcompat:appcompat:1.1.0"
         val recyclerView = "androidx.recyclerview:recyclerview:1.1.0"
         val constraint = "androidx.constraintlayout:constraintlayout:2.0.0-beta4"
-        val emoji = "androidx.emoji:emoji-appcompat:1.0.0"
+        val emoji = "androidx.emoji:emoji-appcompat:1.1.0"
         val design = "com.google.android.material:material:1.2.0-alpha05"
         val coreKtx = "androidx.core:core-ktx:1.2.0"
         val preference = "androidx.preference:preference:1.1.0"
